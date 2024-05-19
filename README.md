@@ -39,7 +39,7 @@
 - 탭 대신 공백 사용
 - 단어 완성
 - HTML 변환
-8. 플러그인
+8. [플러그인](https://github.com/PolyGon-13/Vim_Study/blob/ccf4046ba3fa88a10c9e501e1ec3fff6bea960ab/study/Plugin.md)
 - 플러그인 설치
 - NERD tree
 - snipMate
