@@ -1,4 +1,4 @@
-"vim runtime configuration file
+"vim configuration setting file
 set fencs = utf-8
 
 set ai 
