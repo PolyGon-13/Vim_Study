@@ -1,5 +1,6 @@
 # Vim의 기본적인 기능들
 [TIPS](https://lego0901.tistory.com/4)
+[TIPS REPOSITORE](https://github.com/lego0901/CP_Library.git)
 1. [Vim 기본](https://github.com/PolyGon-13/Vim_Study/blob/485d87fade80aef6b0ed28188f6ef9c60211eac6/study/Basic.md)
 - 일반모드, 입력모드, 명령행 모드
 - 강제 명령
