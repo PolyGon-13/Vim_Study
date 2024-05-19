@@ -1,6 +1,6 @@
 # Vim의 기본적인 기능들
 
-[1. Vim 기본](https://github.com/PolyGon-13/Vim_Study/blob/485d87fade80aef6b0ed28188f6ef9c60211eac6/study/Basic.md)
+1. [Vim 기본](https://github.com/PolyGon-13/Vim_Study/blob/485d87fade80aef6b0ed28188f6ef9c60211eac6/study/Basic.md)
 - 일반모드, 입력모드, 명령행 모드
 - 강제 명령
 - 커서 이동
@@ -25,12 +25,12 @@
 - 디렉터리 탐색
 - 파일 열기 (고급)
 - 파일 인코딩
-5. 편리한 편집 기술
+5. [편리한 편집 기술](https://github.com/PolyGon-13/Vim_Study/blob/0bfdfa189b5abf5a528b7026afe3437212e3b5e9/study/EditSkill.md)
 - 단어와 문장 사이 이동
 - 오페레이션 펜딩 모드
 - 약어 매크로
 - 레지스터 활용
-[6. 자동화](https://github.com/PolyGon-13/Vim_Study/blob/2f72bd420c012cb4f7834b0f82fe0d3b95b43cdc/study/Automation.md)
+6. [자동화](https://github.com/PolyGon-13/Vim_Study/blob/2f72bd420c012cb4f7834b0f82fe0d3b95b43cdc/study/Automation.md)
 - 키 매핑 (단축키)
 - 자동 명령
 - 반복된 작업 녹화
