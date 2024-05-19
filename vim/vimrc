@@ -1,5 +1,13 @@
 "vim runtime configuration file
-set ai cindent nu
-set ts=4 sw=4
+set fencs = utf-8
+
+set ai 
+set cindent 
+set nu
+
+set tabstop = 4
+set shiftwidth = 4
+
 syntax enable
+
 colo desert
