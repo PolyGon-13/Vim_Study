@@ -1,9 +1,10 @@
 "vim configuration setting file
+
 set fencs = utf-8
 
-set ai 
-set cindent 
-set nu
+set number
+set autoindent
+set cindent
 
 set tabstop = 4
 set shiftwidth = 4
