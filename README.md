@@ -11,7 +11,7 @@
 - 색상테마 + 옵션
 - 도움말
 - 에러 처리
-3. 문자열 관련 기능
+3. [문자열 관련 기능](https://github.com/PolyGon-13/Vim_Study/blob/de79a069995297eab1fc88b17330893f1f534816/study/String.md)
 - 문자열 정렬
 - 문자, 문자열 검색
 - 문자열 교체
