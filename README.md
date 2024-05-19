@@ -30,7 +30,7 @@
 - 오페레이션 펜딩 모드
 - 약어 매크로
 - 레지스터 활용
-6. [자동화] (https://github.com/PolyGon-13/Vim_Study/blob/2f72bd420c012cb4f7834b0f82fe0d3b95b43cdc/study/Automation.md)
+6. [자동화](https://github.com/PolyGon-13/Vim_Study/blob/2f72bd420c012cb4f7834b0f82fe0d3b95b43cdc/study/Automation.md)
 - 키 매핑 (단축키)
 - 자동 명령
 - 반복된 작업 녹화
