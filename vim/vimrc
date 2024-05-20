@@ -1,13 +1,13 @@
 "vim configuration setting file
 
-set fileencoding = utf-8
+set fileencoding=utf-8
 
 set number
 set autoindent
 set cindent
 
-set tabstop = 4
-set shiftwidth = 4
+set tabstop=4
+set shiftwidth=4
 
 syntax enable
 
