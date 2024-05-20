@@ -2,6 +2,8 @@
 [TIPS](https://lego0901.tistory.com/4)
 [TIPS REPOSITORIES](https://github.com/lego0901/CP_Library.git)
 [참고노션](https://80000coding.oopy.io/a807a545-316d-48dd-a15f-1e8b9007dfb2)
+[심화자료](https://github.com/ivito/cookbook/tree/e51c12caa66418a614b4ee26aef717b518eee3aa/VIM)
+[심화자료 번역 정리본[(https://seulcode.tistory.com/category/tools/vim?page=6)
 1. [Vim 기본](https://github.com/PolyGon-13/Vim_Study/blob/485d87fade80aef6b0ed28188f6ef9c60211eac6/study/Basic.md)
 - 일반모드, 입력모드, 명령행 모드
 - 강제 명령
