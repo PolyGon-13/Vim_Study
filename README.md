@@ -21,7 +21,7 @@
 - 문자열 교체
 - 특수 문자 교체
 - 정규 표현식으로 교체
-4. [파일 관련 기능](https://github.com/PolyGon-13/Vim_Study/blob/fac6f963e9439146ee01eb5f74eb28cea761c261/study/File.md)
+4. [파일 관련 기능](https://github.com/PolyGon-13/Vim_Study/blob/24b04413e026c6603fbd6453f55754ddfeebd369/study/3_String.md)
 - 파일 열기
 - 다양한 파일 저장법
 - 창 분할
