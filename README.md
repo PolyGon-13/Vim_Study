@@ -10,7 +10,7 @@
 - 커서 이동
 - 삭제, 복사, 붙이기, 취소하기
 - 범위
-2. [옵션, 도움말, 에러 처리](https://github.com/PolyGon-13/Vim_Study/blob/4e6162bf32b7700ca1a9b7b315fed24bcb8abe86/study/Option_Help_Error.md)
+2. [옵션, 도움말, 에러 처리](https://github.com/PolyGon-13/Vim_Study/blob/2827f247f1a16858023a89140edf9d62801e3415/study/2_Option_Help_Error.md)
 - Vim 옵션
 - 색상테마 + 옵션
 - 도움말
