@@ -29,7 +29,7 @@
 - 디렉터리 탐색
 - 파일 열기 (고급)
 - 파일 인코딩
-5. [편리한 편집 기술](https://github.com/PolyGon-13/Vim_Study/blob/0bfdfa189b5abf5a528b7026afe3437212e3b5e9/study/EditSkill.md)
+5. [편리한 편집 기술](https://github.com/PolyGon-13/Vim_Study/blob/2347030dd7d24ec3ebe0f4fd1347ae7b651fca99/study/5_EditSkill.md)
 - 단어와 문장 사이 이동
 - 오페레이션 펜딩 모드
 - 약어 매크로
