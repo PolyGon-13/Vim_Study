@@ -17,6 +17,8 @@ nmap <F2>	:up<CR>
 imap <C-D> <C-R>=strftime("%Y.%m.%d-%H:%M:%S)<CR>
 vmap <C-C> y
 
+autocmd SwapExists * let v:swapchoice='o'
+
 augroup UserDefinedColorScheme
 	au!
 	au FileType sh,perl,python,ruby colo shine
