@@ -1,4 +1,4 @@
-# Vim 기본적인 기능
+## Vim 기본적인 기능
 [TIPS](https://lego0901.tistory.com/4)</br>
 [TIPS REPOSITORIES](https://github.com/lego0901/CP_Library.git)</br>
 [참고노션](https://80000coding.oopy.io/a807a545-316d-48dd-a15f-1e8b9007dfb2)</br>
