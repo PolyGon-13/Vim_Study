@@ -5,7 +5,6 @@
 [심화자료](https://github.com/ivito/cookbook/tree/e51c12caa66418a614b4ee26aef717b518eee3aa/VIM)
 [심화자료 번역 정리본](https://seulcode.tistory.com/category/tools/vim?page=6)
 </br>
-</br>
 1. [Vim 기본](https://github.com/PolyGon-13/Vim_Study/blob/587821e4ea84939f3fd6cc2a84c5f0004fcb49d3/study/1_Basic.md)
 - 일반모드, 입력모드, 명령행 모드
 - 강제 명령
