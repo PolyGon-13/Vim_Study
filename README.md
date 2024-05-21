@@ -38,7 +38,7 @@
 - 키 매핑 (단축키)
 - 자동 명령
 - 반복된 작업 녹화
-7. [프로그래머에게 유용한 기능](https://github.com/PolyGon-13/Vim_Study/blob/6fd71443265d8bc760d23411490700407d4217e2/study/UsefulSkill.md)
+7. [프로그래머에게 유용한 기능](https://github.com/PolyGon-13/Vim_Study/blob/b359bb27947dfc2d74e85ff576ef8250834f781b/study/7_UsefulSkill.md)
 - 들여쓰기 재정렬
 - 탭 대신 공백 사용
 - 단어 완성
