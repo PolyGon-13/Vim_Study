@@ -15,13 +15,13 @@
 - 색상테마 + 옵션
 - 도움말
 - 에러 처리
-3. [문자열 관련 기능](https://github.com/PolyGon-13/Vim_Study/blob/de79a069995297eab1fc88b17330893f1f534816/study/String.md)
+3. [문자열 관련 기능](https://github.com/PolyGon-13/Vim_Study/blob/24b04413e026c6603fbd6453f55754ddfeebd369/study/3_String.md)
 - 문자열 정렬
 - 문자, 문자열 검색
 - 문자열 교체
 - 특수 문자 교체
 - 정규 표현식으로 교체
-4. [파일 관련 기능](https://github.com/PolyGon-13/Vim_Study/blob/24b04413e026c6603fbd6453f55754ddfeebd369/study/3_String.md)
+4. [파일 관련 기능]()
 - 파일 열기
 - 다양한 파일 저장법
 - 창 분할
