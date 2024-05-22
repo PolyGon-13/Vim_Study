@@ -5,6 +5,7 @@ set fileencoding=utf-8
 set number
 set autoindent
 set cindent
+set expandtab
 
 set tabstop=4
 set shiftwidth=4
