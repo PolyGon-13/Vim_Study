@@ -13,3 +13,5 @@ set shiftwidth=4
 syntax enable
 
 colo desert
+
+autocmd FileType C retab
