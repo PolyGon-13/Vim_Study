@@ -8,7 +8,7 @@
 도서 : 손에 잡히는 Vim</br>
 [Vim 설치 사이트](https://www.vim.org/download.php)</br>
 
-</br></br></br>
+</br>
 1. [Vim 기본](https://github.com/PolyGon-13/Vim_Study/blob/587821e4ea84939f3fd6cc2a84c5f0004fcb49d3/study/1_Basic.md)
 - 일반모드, 입력모드, 명령행 모드
 - 강제 명령
