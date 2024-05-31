@@ -4,6 +4,10 @@
 [참고노션](https://80000coding.oopy.io/a807a545-316d-48dd-a15f-1e8b9007dfb2)</br>
 [심화자료](https://github.com/ivito/cookbook/tree/e51c12caa66418a614b4ee26aef717b518eee3aa/VIM)</br>
 [심화자료 번역 정리본](https://seulcode.tistory.com/category/tools/vim?page=6)</br>
+</br>
+도서 : 손에 잡히는 Vim</br>
+[Vim 설치 사이트](https://www.vim.org/download.php)</br>
+
 </br></br></br>
 1. [Vim 기본](https://github.com/PolyGon-13/Vim_Study/blob/587821e4ea84939f3fd6cc2a84c5f0004fcb49d3/study/1_Basic.md)
 - 일반모드, 입력모드, 명령행 모드
