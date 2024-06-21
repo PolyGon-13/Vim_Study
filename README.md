@@ -2,6 +2,8 @@
 도서 : 손에 잡히는 Vim</br>
 [Vim 설치 사이트](https://www.vim.org/download.php)</br></br>
 
+<img width="896" alt="vim-shortkey-keyboard" src="https://github.com/PolyGon-13/Vim_Study/assets/107293272/7b89fe9a-fde7-48e7-9733-9cb247f6314e">
+
 
 ### 1. [Vim 기본](https://github.com/PolyGon-13/Vim_Study/blob/587821e4ea84939f3fd6cc2a84c5f0004fcb49d3/study/1_Basic.md)
 - 일반모드, 입력모드, 명령행 모드
